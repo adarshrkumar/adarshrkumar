@@ -17,7 +17,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com) (use actively)
 [![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![Cursor](https://akum.site/p/CursorLogo48)](https://cursor.com)
+[![Cursor](https://akum.site/p/CursorLogo)](https://cursor.com)
 [![Windows](https://skillicons.dev/icons?i=windows)](https://akum.site/p/WindowsInfo)
 
 
