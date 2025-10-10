@@ -9,7 +9,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 ## Tools
 |Tool|Level/Comments|
 |---|---|
-|[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)|   |
+|[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)|<iframe frameborder="0" src="https://progress-bar.adarshrkumar.dev/?p=50"></iframe>|
 |[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.com)|   |
 |[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)|   |
 |[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)|   |
