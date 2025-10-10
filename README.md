@@ -7,7 +7,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 - Music
 
 ## Tools
-|Tool|Level|
+|Tool|Level/Comments|
 |---|---|
 |[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)|   |
 |[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.com)|   |
@@ -15,8 +15,8 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 |[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)|   |
 |[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)|   |
 |[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/actions)|   |
-|[![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com) (don't use anymore though)|   |
-|[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com) (use actively)|   |
+|[![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com)|(don't use anymore though)|
+|[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)|(use actively)|
 |[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)|   |
 |[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)|   |
 |[![Cursor](https://akum.site/p/CursorIcon)](https://cursor.com)|   |
