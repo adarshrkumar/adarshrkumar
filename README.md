@@ -36,25 +36,29 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 |[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
 
 #### Back End
-[![PHP](https://skillicons.dev/icons?i=php)](https://akum.site/p/PHPInfo)
-[![Node.JS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![NPM](https://skillicons.dev/icons?i=npm)](https://npmjs.com)
-[![Express.JS](https://skillicons.dev/icons?i=express)](https://expressjs.com)
-[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Next.JS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
-[![Astro](https://skillicons.dev/icons?i=astro)](https://astro.build)
-[![Discord.JS](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org)
+|Language|Level|
+|---|---|
+|[![PHP](https://skillicons.dev/icons?i=php)](https://akum.site/p/PHPInfo)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![Node.JS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![NPM](https://skillicons.dev/icons?i=npm)](https://npmjs.com)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![Express.JS](https://skillicons.dev/icons?i=express)](https://expressjs.com)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![React](https://skillicons.dev/icons?i=react)](https://react.dev)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![Next.JS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![Astro](https://skillicons.dev/icons?i=astro)](https://astro.build)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![Discord.JS](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
 
 ### Other Languages
-[![BASH](https://skillicons.dev/icons?i=bash)](https://akum.site/p/BASHInfo)
-[![PowerShell](https://skillicons.dev/icons?i=powershell)](https://akum.site/p/PowerShellInfo)
-[![Python](https://skillicons.dev/icons?i=py)](https://python.org)
-[![Flask.PY](https://skillicons.dev/icons?i=flask)](https://palletsprojects.com/p/flask/)
-[![C](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com)
-[![Markdown](https://skillicons.dev/icons?i=md)](https://akum.site/p/MarkDownInfo)
-[![RegEx](https://skillicons.dev/icons?i=regex)](https://akum.site/p/RegExInfo)
+|Language|Level|
+|---|---|
+|[![BASH](https://skillicons.dev/icons?i=bash)](https://akum.site/p/BASHInfo)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![PowerShell](https://skillicons.dev/icons?i=powershell)](https://akum.site/p/PowerShellInfo)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![Python](https://skillicons.dev/icons?i=py)](https://python.org)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![Flask.PY](https://skillicons.dev/icons?i=flask)](https://palletsprojects.com/p/flask/)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![C](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![Markdown](https://skillicons.dev/icons?i=md)](https://akum.site/p/MarkDownInfo)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![RegEx](https://skillicons.dev/icons?i=regex)](https://akum.site/p/RegExInfo)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
 
 ## Social Media
 [![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/adarshrkumar)
