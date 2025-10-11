@@ -74,6 +74,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 
 <a href="https://adarshrkumar.dev/portfolio" style="margin-inline: auto;" width="500">
   <img alt="Adarsh Kumar's Website" border="1" src="https://image.thum.io/get/maxAge/12/width/500/https://adarshrkumar.dev/portfolio">
+  <iframe src="https://image.thum.io/get/maxAge/12/width/500/https://adarshrkumar.dev/portfolio" title="Adarsh Kumar's Website"></iframe>
 </a>
   
 <!---
