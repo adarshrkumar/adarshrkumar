@@ -13,7 +13,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 |[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.com)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=50)|
 |[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=50)|
 |[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=75)|
-|[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)![](|![](https:///progress-bar.adarshrkumar.dev/bar.svg?p=95)|
+|[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)|![](https:///progress-bar.adarshrkumar.dev/bar.svg?p=95)|
 |[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/actions)|![](https:///progress-bar.adarshrkumar.dev/bar.svg?p=100)|
 |[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)|![](https:///progress-bar.adarshrkumar.dev/bar.svg?p=80)|
 |[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)|![](https:///progress-bar.adarshrkumar.dev/bar.svg?p=75)|
