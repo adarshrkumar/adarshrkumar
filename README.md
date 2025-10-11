@@ -17,7 +17,7 @@ Hello there! I’m [@Rien Gupta](https://github.com/graine25)
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![My Skills](https://cdn.brandfetch.io/cursor.com/w/50/h/50?c=1idsRGhEvaII6g6-Lnq)](https://cursor.com)
-[![My Skills](https://cdn.brandfetch.io/apple.com/w/50/h/50/theme/light/logo?c=1idsRGhEvaII6g6-Lnq)](https://developer.apple.com/macos/)
+[![My Skills](https://cdn.brandfetch.io/apple.com/w/50/h/50/theme/dark/logo?c=1idsRGhEvaII6g6-Lnq)](https://developer.apple.com/macos/)
 
 
 ## Languages
