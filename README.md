@@ -64,7 +64,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/adarsh.r.kumar)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/adarshrkumar)
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/adarshrkumar)
-[![TikTok](https://akum.site/p/TikTokIcon)](https://tiktok.com/@adarshrkumar)
+[![TikTok](https://akum.site/p/TikTokIcon)](https://tiktok.com/@adarsh.r.kumar)
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/adarshrkumar)
 [![YouTube](https://skillicons.dev/icons?i=youtube)](https://youtube.com/@adarshrkumar)
 
