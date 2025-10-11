@@ -26,7 +26,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 ### Web Development
 
 #### Front-End
-|Language|Level|
+|Lang|Level|
 |---|---|
 |[![HMTL](https://skillicons.dev/icons?i=html)](https://akum.site/p/HTMLInfo)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
 |[![CSS](https://skillicons.dev/icons?i=css)](https://akum.site/p/CSSInfo)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
@@ -36,7 +36,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 |[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
 
 #### Back End
-|Language|Level|
+|Lang|Level|
 |---|---|
 |[![PHP](https://skillicons.dev/icons?i=php)](https://akum.site/p/PHPInfo)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
 |[![Node.JS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
@@ -49,7 +49,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 |[![Discord.JS](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
 
 ### Other Languages
-|Language|Level|
+|Lang|Level|
 |---|---|
 |[![BASH](https://skillicons.dev/icons?i=bash)](https://akum.site/p/BASHInfo)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
 |[![PowerShell](https://skillicons.dev/icons?i=powershell)](https://akum.site/p/PowerShellInfo)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
