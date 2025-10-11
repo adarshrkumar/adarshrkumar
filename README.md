@@ -72,9 +72,9 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 💞️ I’m looking to collaborate on ...
 📫 How to reach me: Email: [adarshrumar@aol.com](mailto:adarshrumar@aol.com)
 
-<!-- <a href="https://adarshrkumar.dev/portfolio" style="margin-inline: auto;" width="500">
+<a href="https://adarshrkumar.dev/portfolio" style="margin-inline: auto;" width="500">
   <img alt="Adarsh Kumar's Website" src="https://image.thum.io/get/maxAge/12/width/500/https://adarshrkumar.dev/portfolio">
-</div> -->
+</a>
   
 <!---
   adarshrkumar/adarshrkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
