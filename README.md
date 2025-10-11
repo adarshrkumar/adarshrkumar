@@ -9,18 +9,18 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 ## Tools
 |Tool|Level|
 |---|---|
-|[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)|https://progress-bar.adarshrkumar.dev/bar.svg?p=80|
-|[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.com)|https://progress-bar.adarshrkumar.dev/bar.svg?p=50|
-|[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)|https://progress-bar.adarshrkumar.dev/bar.svg?p=50|
-|[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)|https://progress-bar.adarshrkumar.dev/bar.svg?p=75|
-|[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)|https://progress-bar.adarshrkumar.dev/bar.svg?p=95|
-|[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/actions)|https://progress-bar.adarshrkumar.dev/bar.svg?p=100|
-|[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)|https://progress-bar.adarshrkumar.dev/bar.svg?p=80|
-|[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)|https://progress-bar.adarshrkumar.dev/bar.svg?p=75|
-|[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)|https://progress-bar.adarshrkumar.dev/bar.svg?p=100|
-|[![Cursor](https://akum.site/p/CursorIcon)](https://cursor.com)|https://progress-bar.adarshrkumar.dev/bar.svg?p=99|
-|[![Windows](https://skillicons.dev/icons?i=windows)](https://akum.site/p/WindowsInfo)|https://progress-bar.adarshrkumar.dev/bar.svg?p=75|
-|[![Mac](https://skillicons.dev/icons?i=mac)](https://akum.site/p/MacInfo)|https://progress-bar.adarshrkumar.dev/bar.svg?p=75|
+|[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=80)|
+|[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.com)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=50)|
+|[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=50)|
+|[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=75)|
+|[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)![](|![](https:///progress-bar.adarshrkumar.dev/bar.svg?p=95)|
+|[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/actions)|![](https:///progress-bar.adarshrkumar.dev/bar.svg?p=100)|
+|[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)|![](https:///progress-bar.adarshrkumar.dev/bar.svg?p=80)|
+|[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)|![](https:///progress-bar.adarshrkumar.dev/bar.svg?p=75)|
+|[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)|![](https:///progress-bar.adarshrkumar.dev/bar.svg?p=100)|
+|[![Cursor](https://akum.site/p/CursorIcon)](https://cursor.com)|![](https:///progress-bar.adarshrkumar.dev/bar.svg?p=99)|
+|[![Windows](https://skillicons.dev/icons?i=windows)](https://akum.site/p/WindowsInfo)|![](https:///progress-bar.adarshrkumar.dev/bar.svg?p=75)|
+|[![Mac](https://skillicons.dev/icons?i=mac)](https://akum.site/p/MacInfo)|![](https:///progress-bar.adarshrkumar.dev/bar.svg?p=75)|
 
 
 ## Languages
