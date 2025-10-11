@@ -73,7 +73,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 📫 How to reach me: Email: [adarshrumar@aol.com](mailto:adarshrumar@aol.com)
 
 <a href="https://adarshrkumar.dev/portfolio" style="margin-inline: auto;" width="500">
-  <img alt="Adarsh Kumar's Website" src="https://image.thum.io/get/maxAge/12/width/500/https://adarshrkumar.dev/portfolio">
+  <img alt="Adarsh Kumar's Website" style="border: solid 1px black;" src="https://image.thum.io/get/maxAge/12/width/500/https://adarshrkumar.dev/portfolio">
 </a>
   
 <!---
