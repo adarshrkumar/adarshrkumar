@@ -26,13 +26,14 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 ### Web Development
 
 #### Front-End
-[![HMTL](https://skillicons.dev/icons?i=html)](https://akum.site/p/HTMLInfo)
-[![CSS](https://skillicons.dev/icons?i=css)](https://akum.site/p/CSSInfo)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://akum.site/p/JSInfo)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
-[![SVG](https://skillicons.dev/icons?i=svg)](https://akum.site/p/SVGInfo)
-[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
+|Language|Level|
+|---|---|
+|[![HMTL](https://skillicons.dev/icons?i=html)](https://akum.site/p/HTMLInfo)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![CSS](https://skillicons.dev/icons?i=css)](https://akum.site/p/CSSInfo)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![JavaScript](https://skillicons.dev/icons?i=js)](https://akum.site/p/JSInfo)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![SVG](https://skillicons.dev/icons?i=svg)](https://akum.site/p/SVGInfo)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
+|[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com)|![](https://progress-bar.adarshrkumar.dev/bar.svg?p=)|
 
 #### Back End
 [![PHP](https://skillicons.dev/icons?i=php)](https://akum.site/p/PHPInfo)
