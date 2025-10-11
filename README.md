@@ -7,7 +7,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 - Music
 
 ## Tools
-|Tool|Level/Comments|
+|Tool|Level|
 |---|---|
 |[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)|80%|
 |[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.com)|50%|
