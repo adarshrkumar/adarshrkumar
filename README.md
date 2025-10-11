@@ -9,18 +9,19 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 ## Tools
 |Tool|Level/Comments|
 |---|---|
-|[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)|<iframe frameborder="0" src="https://progress-bar.adarshrkumar.dev/?p=50"></iframe>|
-|[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.com)|   |
-|[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)|   |
-|[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)|   |
-|[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)|   |
-|[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/actions)|   |
+|[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)|580%|
+|[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.com)|50%|
+|[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)|50%|
+|[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)|75%|
+|[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)|95%|
+|[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/actions)|100%|
 |[![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com)|(don't use anymore though)|
 |[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)|(use actively)|
-|[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)|   |
-|[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)|   |
-|[![Cursor](https://akum.site/p/CursorIcon)](https://cursor.com)|   |
-|[![Windows](https://skillicons.dev/icons?i=windows)](https://akum.site/p/WindowsInfo)|   |
+|[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)|75%|
+|[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)|100%|
+|[![Cursor](https://akum.site/p/CursorIcon)](https://cursor.com)|99%|
+|[![Windows](https://skillicons.dev/icons?i=windows)](https://akum.site/p/WindowsInfo)|75%|
+|[![Mac](https://skillicons.dev/icons?i=mac)](https://akum.site/p/MacInfo)|75%|
 
 
 ## Languages
