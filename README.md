@@ -15,7 +15,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 |[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)|75%|
 |[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)|95%|
 |[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/actions)|100%|
-|[![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com)|(don't use anymore though)|
+|[![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com)|(don't use anymore)|
 |[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)|(use actively)|
 |[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)|75%|
 |[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)|100%|
