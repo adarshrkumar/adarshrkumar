@@ -15,7 +15,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 |[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)|75%|
 |[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)|95%|
 |[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/actions)|100%|
-|[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)|(use actively)|
+|[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)|80%|
 |[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)|75%|
 |[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)|100%|
 |[![Cursor](https://akum.site/p/CursorIcon)](https://cursor.com)|99%|
