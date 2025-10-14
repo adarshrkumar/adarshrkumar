@@ -19,7 +19,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 |[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)|[![75%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=75)]()|
 |[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)|[![100%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=100)]()|
 |[![Cursor](https://akum.site/p/CursorIcon)](https://cursor.com)|[![99%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=99)]()|
-|[![Windows](https://skillicons.dev/icons?i=windows)](https://akum.site/p/WindowsInfo)|[![75%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=75)]()|
+|[![Windows](https://akum.site/p/WindowsIcon)](https://akum.site/p/WindowsInfo)|[![75%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=75)]()|
 |[![Mac](https://skillicons.dev/icons?i=mac)](https://akum.site/p/MacInfo)|[![75%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=75)]()|
 
 ## Languages
