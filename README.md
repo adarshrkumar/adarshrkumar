@@ -12,7 +12,7 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 |[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)|[![80%](https://progress-bar.adarshrkumar.dev/bar.svg?p=80)]()|
 |[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.com)|[![50%](https://progress-bar.adarshrkumar.dev/bar.svg?p=50)]()|
 |[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)|[![50%](https://progress-bar.adarshrkumar.dev/bar.svg?p=50)]()|
-|[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)|[![75%](https://progress-bar.adarshrkumar.dev/bar.svg?p=75)]()|
+|[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)|[![50%](https://progress-bar.adarshrkumar.dev/bar.svg?p=75)]()|
 |[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)|[![95%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=95)]()|
 |[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/actions)|[![100%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=100)]()|
 |[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)|[![80%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=80)]()|
