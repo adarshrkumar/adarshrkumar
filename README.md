@@ -12,15 +12,15 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 |[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)|[![80%](https://progress-bar.adarshrkumar.dev/bar.svg?p=80)]()|
 |[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.com)|[![50%](https://progress-bar.adarshrkumar.dev/bar.svg?p=50)]()|
 |[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)|[![50%](https://progress-bar.adarshrkumar.dev/bar.svg?p=50)]()|
-|[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)|[![50%](https://progress-bar.adarshrkumar.dev/bar.svg?p=75)]()|
-|[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)|[![95%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=95)]()|
-|[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/actions)|[![100%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=100)]()|
-|[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)|[![80%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=80)]()|
-|[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)|[![75%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=75)]()|
-|[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)|[![100%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=100)]()|
-|[![Cursor](https://akum.site/p/CursorIcon)](https://cursor.com)|[![99%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=99)]()|
-|[![Windows](https://akum.site/p/WindowsIcon?)](https://akum.site/p/WindowsInfo)|[![75%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=75)]()|
-|[![Mac](https://akum.site/p/MacLogo)](https://akum.site/p/MacInfo)|[![75%](https:///progress-bar.adarshrkumar.dev/bar.svg?p=75)]()|
+|[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)|[![75%](https://progress-bar.adarshrkumar.dev/bar.svg?p=75)]()|
+|[![GitHub](https://skillicons.dev/icons?i=gitgub)](https://github.com)|[![95%](https://progress-bar.adarshrkumar.dev/bar.svg?p=95)]()|
+|[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/actions)|[![100%](https://progress-bar.adarshrkumar.dev/bar.svg?p=100)]()|
+|[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)|[![80%](https://progress-bar.adarshrkumar.dev/bar.svg?p=80)]()|
+|[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.com)|[![75%](https://progress-bar.adarshrkumar.dev/bar.svg?p=75)]()|
+|[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)|[![100%](https://progress-bar.adarshrkumar.dev/bar.svg?p=100)]()|
+|[![Cursor](https://akum.site/p/CursorIcon)](https://cursor.com)|[![99%](https://progress-bar.adarshrkumar.dev/bar.svg?p=99)]()|
+|[![Windows](https://akum.site/p/WindowsIcon?)](https://akum.site/p/WindowsInfo)|[![75%](https://progress-bar.adarshrkumar.dev/bar.svg?p=75)]()|
+|[![Mac](https://akum.site/p/MacLogo)](https://akum.site/p/MacInfo)|[![75%](https://progress-bar.adarshrkumar.dev/bar.svg?p=75)]()|
 
 ## Languages
 ### Web Development
