@@ -7,9 +7,16 @@ Hi, I’m [@adarshrkumar](https://github.com/adarshrkumar)
 - Music
 
 ## Tools
+
+### Design Softwares
 |Tool|Level|
 |---|---|
 |[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)|[![80%](https://progress-bar.adarshrkumar.dev/bar.svg?p=80)]()|
+|[![Canva](https://skillicons.dev/icons?i=canva)](https://canva.com)|[![80%](https://progress-bar.adarshrkumar.dev/bar.svg?p=100)]()|
+
+### Other Tools
+|Tool|Level|
+|---|---|
 |[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.com)|[![50%](https://progress-bar.adarshrkumar.dev/bar.svg?p=50)]()|
 |[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)|[![50%](https://progress-bar.adarshrkumar.dev/bar.svg?p=50)]()|
 |[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)|[![75%](https://progress-bar.adarshrkumar.dev/bar.svg?p=75)]()|
